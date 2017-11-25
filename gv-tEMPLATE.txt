@@ -3,3 +3,5 @@ VALUE:360000
 
 teritoty:12354
 value:30000
+
+timeout :200000
