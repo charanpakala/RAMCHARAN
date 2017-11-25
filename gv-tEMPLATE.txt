@@ -2,4 +2,4 @@ nAME:10010
 VALUE:360000
 
 teritoty:12354
-value:30000
+value:32000
